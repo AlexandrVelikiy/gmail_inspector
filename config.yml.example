@@ -2,7 +2,7 @@ main:
     login: automation5895@gmail.com
     password: *********
     prefix_email_subject: "[ZIP]"
-    to_email: alexandr.velikiy@gmail.com
+    to_email: qqqqqqq@gmail.com
     to_email_subject: Gmail inspector
 zip:
     archine_name: arch_file.zip
